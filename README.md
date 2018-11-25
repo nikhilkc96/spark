@@ -1,5 +1,5 @@
 
-#Installing Spark (on Ubuntu 18.04 LTS, UBuntu 14.04)
+Installing Spark (on Ubuntu 18.04 LTS, UBuntu 14.04)
 ---------------------------------------
 (wherever the sudo command is used, you may have to provide the admin password).
 
